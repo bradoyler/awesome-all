@@ -1,6 +1,6 @@
-# Awesome lists
+# Awesome all
 
-A curated list of awesome lists of awesome frameworks, libraries and software
+A curated list of all the awesome lists of awesome frameworks, libraries and software
 
 ### Contributing
 
@@ -29,4 +29,3 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Wikipedia](https://github.com/emijrp/awesome-wikipedia)
-- 
