@@ -1,10 +1,10 @@
-# Awesome all
+# [Awesome all](https://github.com/bradoyler/awesome-all)
 
 A curated list of all the awesome lists of awesome frameworks, libraries and software
 
 ### Contributing
 
-Please take a quick gander at the [contribution guidelines](https://github.com/bradoyler/awesome-lists/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/bradoyler/awesome-lists/graphs/contributors); you rock!
+Please take a quick gander at the [contribution guidelines](https://github.com/bradoyler/awesome-all/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/bradoyler/awesome-all/graphs/contributors); you rock!
 
 ### Contents
 
