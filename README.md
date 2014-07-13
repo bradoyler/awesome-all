@@ -8,6 +8,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 
 ### Contents
 
+- [Android](https://github.com/JStumpp/awesome-android)
 - [Bash](https://github.com/alebcay/awesome-shell)
 - [Big data](https://github.com/onurakpolat/awesome-bigdata)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
