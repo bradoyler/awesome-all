@@ -27,6 +27,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Python](https://github.com/vinta/awesome-python)
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Scala](https://github.com/lauris/awesome-scala)
+- [Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Wikipedia](https://github.com/emijrp/awesome-wikipedia)
