@@ -27,6 +27,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Node.js](https://github.com/vndmtrx/awesome-nodejs)
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Python](https://github.com/vinta/awesome-python)
+- [React-Native](https://github.com/jondot/awesome-react-native)
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
