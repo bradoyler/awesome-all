@@ -12,6 +12,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Bash](https://github.com/alebcay/awesome-shell)
 - [Big data](https://github.com/onurakpolat/awesome-bigdata)
 - [C](https://github.com/kozross/awesome-c)
+- [C++](https://github.com/fffaraz/awesome-cpp)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Cobol](https://github.com/dshimy/awesome-cobol)
 - [Common Lisp](https://github.com/kozross/awesome-cl)
