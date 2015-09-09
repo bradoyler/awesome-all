@@ -24,6 +24,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Java](https://github.com/akullpp/awesome-java)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Lists](https://github.com/jnv/lists)
 - [Node.js](https://github.com/vndmtrx/awesome-nodejs)
 - [PHP](https://github.com/ziadoz/awesome-php)
