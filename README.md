@@ -9,6 +9,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 ### Contents
 
 - [Android](https://github.com/JStumpp/awesome-android)
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Bash](https://github.com/alebcay/awesome-shell)
 - [Big data](https://github.com/onurakpolat/awesome-bigdata)
 - [C](https://github.com/kozross/awesome-c)
