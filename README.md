@@ -19,6 +19,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Common Lisp](https://github.com/kozross/awesome-cl)
 - [Community](https://github.com/peterkokot/awesome-community)
 - [D](https://github.com/zhaopuming/awesome-d)
+- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Go](https://github.com/avelino/awesome-go)
