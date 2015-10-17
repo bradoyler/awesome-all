@@ -25,6 +25,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Go](https://github.com/avelino/awesome-go)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [iOS](https://github.com/vsouza/awesome-ios)
+- [IoT](https://github.com/HQarroum/awesome-iot)
 - [Java](https://github.com/akullpp/awesome-java)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
