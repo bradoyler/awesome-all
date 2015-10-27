@@ -31,6 +31,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Lists](https://github.com/jnv/lists)
 - [Node.js](https://github.com/vndmtrx/awesome-nodejs)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Python](https://github.com/vinta/awesome-python)
 - [React-Native](https://github.com/jondot/awesome-react-native)
