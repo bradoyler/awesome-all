@@ -36,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Python](https://github.com/vinta/awesome-python)
 - [React-Native](https://github.com/jondot/awesome-react-native)
 - [Ruby](https://github.com/markets/awesome-ruby)
+- [Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization)
 - [Swift](https://awesome-swift.zeef.com/robin.eggenkamp)
