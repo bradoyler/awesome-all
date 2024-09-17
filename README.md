@@ -18,6 +18,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/b
 - [Cobol](https://github.com/dshimy/awesome-cobol)
 - [Common Lisp](https://github.com/kozross/awesome-cl)
 - [Community](https://github.com/petk/awesome-community)
+- [Custom GPTs](https://github.com/taranjeet/awesome-gpts/)
 - [D](https://github.com/zhaopuming/awesome-d)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
